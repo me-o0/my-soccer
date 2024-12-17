@@ -9,7 +9,7 @@
 
 ## ページ構成
 | URL | 内容 | サーブレット | HTML |
-|:---:|:---:|:---:|:---:|
+|:---|:---|:---|:---|
 | /home | ホーム | HomeServlet | index.jsp |
 | /list | チーム紹介 | TeamServlet | list.jsp |
 | /login | ログイン | LoginServlet | login.jsp |
